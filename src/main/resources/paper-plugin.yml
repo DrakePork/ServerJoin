@@ -1,0 +1,9 @@
+name: $name
+version: $version
+main: no.andste.serverjoin.ServerJoin
+description: $description
+api-version: "$apiVersion"
+authors:
+  - DrakePork
+bootstrapper:  no.andste.serverjoin.utils.ServerJoinBootstrap
+loader: no.andste.serverjoin.utils.ServerJoinLoader
